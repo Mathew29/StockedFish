@@ -4,7 +4,7 @@ import HomePage from "./components/HomePage/index";
 
 import "./App.css";
 
-App = () => {
+function App() {
   return (
     <div className="App">
       <Switch>
